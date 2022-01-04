@@ -1,1 +1,2 @@
-# Regression-Analysis-on-Opossums
+# Regression Analysis on Opossums
+In this project I used a dataset consisting of the location, sex, age, and physical measurements of a population of opossums. With this data I did several different types of regression in an attempt to predict the length of an opossums body when given body measurements, age, and location. Using multiple linear regression and LASSO penalized regression, I saw that some of the physical characteristics and location do in fact play a large role in determining the overall size of the opossum. Overall, this project was my first exploration in the use of tuning parameters and using training and testing data in order to test predictions of a given analysis. 
